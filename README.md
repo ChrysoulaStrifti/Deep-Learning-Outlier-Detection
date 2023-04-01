@@ -2,7 +2,7 @@
 
 This project analyzes, cleans and transforms data, given data from different events and customers, it later creates a machine learning model that detects events with anomalous behavior.
 
-#The data
+# The data
 
 viewer id : A unique identifier of the viewer. If the viewer participates
 in multiple events, the identifier remains the same
